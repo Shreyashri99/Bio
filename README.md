@@ -1,9 +1,10 @@
 # Shreyashri Vishwanath Athani
-📊 Data Scientist | MLOps Enthusiast | Business Intelligence | NLP | Cloud Computing
+📊 Love numbers | Data Scientist | MLOps Enthusiast | Business Intelligence | NLP 
 
 🔍 Passionate about transforming data into actionable insights, I specialize in data science, machine learning, and MLOps. With a background in predictive modeling, big data processing, and cloud-based analytics, I thrive at the intersection of AI and business intelligence.
 
 💡 What I Do:
+
 ✔ Develop scalable ML models for forecasting and optimization (Python, PyTorch, TensorFlow)
 ✔ Build robust ETL pipelines and data workflows (SQL, PySpark, Databricks, GCP, Azure)
 ✔ Design interactive dashboards and BI solutions (Tableau, Power BI)
